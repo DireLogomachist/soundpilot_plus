@@ -1,10 +1,9 @@
 {
-
-  "description": "Adds a simple player to toolbar. You can use play, pause, next, previous and like commands, without been on a Soundcloud Tab",
+  "description": "Adds a simple SoundCloud player to the toolbar. Play, pause, next, previous and like commands, all without touching your Soundcloud tab. Now with new hotkeys",
   "manifest_version": 2,
-  "name": "Soundpiot",
-  "version": "1.0.1",
-  "homepage_url": "https://gpeogjer.com.br",
+  "name": "Soundpilot Plus",
+  "version": "2.0.0",
+  "homepage_url": "https://twitter.com/andy_codes",
   "icons": {
     "48": "icons/soundpiot-48.png"
   },
@@ -22,7 +21,7 @@
         "dark": "icons/soundpiot-48.png",
         "size": 32
     }],
-    "default_title": "Soundpiot",
+    "default_title": "Soundpilot Plus",
     "default_popup": "popup/sp_popup.html"
   },
 
@@ -34,7 +33,5 @@
    ],
 
   "web_accessible_resources": [
-
   ]
-
 }

@@ -2,7 +2,7 @@
   "description": "Adds a simple SoundCloud player to the toolbar. Play, pause, next, previous and like commands, all without touching your Soundcloud tab. Now with new hotkeys",
   "manifest_version": 2,
   "name": "Soundpilot Plus",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "homepage_url": "https://twitter.com/andy_codes",
   "icons": {
     "48": "icons/soundpiot-48.png"
